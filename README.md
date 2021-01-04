@@ -2,7 +2,7 @@
 
 ## Spring 2021
 
-Instructor: [Ming Yan](http://users.math.msu.edu/users/yanm/) [[email: myan@msu.edu](myan@msu.edu)]
+Instructor: [Ming Yan](http://users.math.msu.edu/users/yanm/) [[email: myan@msu.edu](mailto:myan@msu.edu)]
 
 + Time: Monday and Wednesday 4:10 pm -- 5:30 pm
 + Location: Zoom (see [D2L](https://d2l.msu.edu/d2l/loginh/) for Zoom access information)
@@ -92,7 +92,7 @@ The lecture meetings will be in Zoom. There are workshops on online resources fr
 + Cheating of any kind is wrong.
 + Academic dishonesty includes, but is not limited to: copying homework solutions, cheating on any of the exams (including using material not allowed to be used).
 + The students are allowed to discuss homework problems with each other, but they must write their solutions on their own.
-+ For more detailed information, visit the Ombud’s website for academic integrity: https://www.msu.edu/unit/ombud/academic-integrity/.
++ For more detailed information, visit the Ombud’s website for academic integrity: https://ombud.msu.edu/resources-self-help/academic-integrity.
 
 ### Students with Disabilities
 
