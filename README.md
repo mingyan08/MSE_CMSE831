@@ -1,4 +1,4 @@
-# CMSE 831: Computational Optimization (3 credits)
+# CMSE 831: Computational Optimization (3 Credits)
 
 ## Spring 2021
 
@@ -102,43 +102,43 @@ The lecture meetings will be in Zoom. There are workshops on online resources fr
 
 ### Tentative Schedule
 
-| Date          | Topics                                    | Remark |
-| ------------- | ----------------------------------------- | ------ |
-| 01/11-15/2021 | **Review Week**                           |        |
-| 01/18/2021    | **MLK Day (No Class)**                    |        |
-| 01/20/2021    | Introduction + Linear Algebra (1)         |        |
-| 01/25/2021    | Linear Algebra (1)                        |        |
-| 01/27/2021    | Convex Optimization (2)                   |        |
-| 02/01/2021    | Convex Optimization (2)                   |        |
-| 02/03/2021    | Gradient Method (3)                       |        |
-| 02/08/2021    | Gradient method (3)                       |        |
-| 02/10/2021    | Subgradients (4)                          |        |
-| 02/15/2021    | Subgradient Method (5)                    |        |
-| 02/17/2021    | Subgradient Method (5)                    |        |
-| 02/22/2021    | Proximal gradient method (6)              |        |
-| 02/24/2021    | Accelerated proximal gradient method (7)  |        |
-| 03/01/2021    | Accelerated proximal gradient method (7)  |        |
-| 03/03/2021    | **Break Day (No Class)**                  |        |
-| 03/08/2021    | Conjugate Functions +Proximal mapping (8) |        |
-| 03/10/2021    | Proximal point methods (9)                |        |
-| 03/15/2021    | Dual proximal gradient method (10)        |        |
-| 03/17/2021    | Smoothing (11)                            |        |
-| 03/22/2021    | Stochastic gradient method (12)           |        |
-| 03/24/2021    | Stochastic gradient method (12)           |        |
-| 03/29/2021    | DRS- ADMM (13)                            |        |
-| 03/31/2021    | DRS- ADMM (13)                            |        |
-| 04/05/2021    | DRS- ADMM (13)                            |        |
-| 04/07/2021    | Primal-Dual (14)                          |        |
-| 04/12/2021    | Primal-Dual (14)                          |        |
-| 04/14/2021    | Coordinate update methods (16)            |        |
-| 04/19/2021    | Project Presentation                      |        |
-| 04/21/2021    | Project Presentation                      |        |
+|      | Date          | Topics                                    | Remark |
+| ---- | ------------- | ----------------------------------------- | ------ |
+|      | 01/11-15/2021 | **Review Week**                           |        |
+|      | 01/18/2021    | **MLK Day (No Class)**                    |        |
+| 1    | 01/20/2021    | Introduction + Linear Algebra (1)         |        |
+| 2    | 01/25/2021    | Linear Algebra (1)                        |        |
+| 3    | 01/27/2021    | Convex Optimization (2)                   |        |
+| 4    | 02/01/2021    | Convex Optimization (2)                   |        |
+| 5    | 02/03/2021    | Gradient Method (3)                       |        |
+| 6    | 02/08/2021    | Gradient method (3)                       |        |
+| 7    | 02/10/2021    | Subgradients (4)                          |        |
+| 8    | 02/15/2021    | Subgradient Method (5)                    |        |
+| 9    | 02/17/2021    | Subgradient Method (5)                    |        |
+| 10   | 02/22/2021    | Proximal gradient method (6)              |        |
+| 11   | 02/24/2021    | Accelerated proximal gradient method (7)  |        |
+| 12   | 03/01/2021    | Accelerated proximal gradient method (7)  |        |
+| 13   | 03/03/2021    | **Break Day (No Class)**                  |        |
+| 14   | 03/08/2021    | Conjugate Functions +Proximal mapping (8) |        |
+| 15   | 03/10/2021    | Proximal point methods (9)                |        |
+| 16   | 03/15/2021    | Dual proximal gradient method (10)        |        |
+| 17   | 03/17/2021    | Smoothing (11)                            |        |
+| 18   | 03/22/2021    | Stochastic gradient method (12)           |        |
+| 19   | 03/24/2021    | Stochastic gradient method (12)           |        |
+| 20   | 03/29/2021    | DRS- ADMM (13)                            |        |
+| 21   | 03/31/2021    | DRS- ADMM (13)                            |        |
+| 22   | 04/05/2021    | DRS- ADMM (13)                            |        |
+| 23   | 04/07/2021    | Primal-Dual (14)                          |        |
+| 24   | 04/12/2021    | Primal-Dual (14)                          |        |
+| 25   | 04/14/2021    | Coordinate update methods (16)            |        |
+| 26   | 04/19/2021    | Project Presentation                      |        |
+| 27   | 04/21/2021    | Project Presentation                      |        |
 
 ## Course Policies
 
 ### Course Announcements
 
-+ Announcements will be emailed to the course mailing list (D2L). If you do **NOT**receive the welcome message before the first class, please let me know.
++ Announcements will be emailed to the course mailing list (D2L). If you do **NOT **receive the welcome message before the first class, please let me know.
 
 ### Policy for Missing a Required Assignment
 + Excused absences will be given only with documentation and only for valid medical reasons, university business, or appearances in court.
