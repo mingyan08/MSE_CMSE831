@@ -61,17 +61,16 @@ The lecture meetings will be in Zoom. There are workshops on online resources fr
 
 + Group size: up to **three** students
 
-+ Formats:
-
-  + (**New application**) You apply methods learned from this class to solve a practical problem from your
-    research areas in a way that has not been considered before;
-  + (**New formulation**) You reformulate an existing problem and apply new techniques learned from this class
-    to solve it;
-  + (**New algorithm**) You propose a new algorithm to solve a speciﬁc problem, and the new algorithm should
-    be more eﬃcient than benchmark algorithms;
-  + (**New theory**) You derive new theoretical analysis for existing optimization algorithms;
-  + (**New package**) You compare diﬀerent optimization algorithms comprehensively for a existing optimization
-    problem and make it as a package.
++ Topics (anything related to the computational optimization):
+  + Applications: 
+    + Identify an application problem, formulate it into an application problem, solve this optimization problem using one or more optimization algorithms. 
+    + For example, phase retrieval, compressive sensing, matrix factorization, regression, classification.
+  + Algorithms: Usually, many different algorithms can solve the same optimization problem.  
+    + Identify an optimization problem, compare several optimization algorithms for this problem theoretically or numerically.  
+    + For example, decentralized consensus problem; distributed algorithms with compression, algorithms with differential privacy.
+  + Theory: 
+    + Identify an optimization algorithm and write a report on this algorithm's theoretical analysis (convergence and rates).
+    + For example, ADAM for training neural networks, variance reduction algorithms (SARAH, STORM, and SVRG).
 
 + Feel free to talk to me about the project during all stages.
 
