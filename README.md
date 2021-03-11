@@ -112,24 +112,24 @@ The lecture meetings will be in Zoom. There are workshops on online resources fr
 | 5    | 02/03/2021    | Gradient Method (3)                       |        |
 | 6    | 02/08/2021    | Gradient method (3)                       |        |
 | 7    | 02/10/2021    | Subgradients (4)                          |        |
-| 8    | 02/15/2021    | Subgradient Method (5)                    |        |
+| 8    | 02/15/2021    | Subgradients (4)                          |        |
 | 9    | 02/17/2021    | Subgradient Method (5)                    |        |
-| 10   | 02/22/2021    | Proximal gradient method (6)              |        |
-| 11   | 02/24/2021    | Accelerated proximal gradient method (7)  |        |
+| 10   | 02/22/2021    | Subgradient Method (5)                    |        |
+| 11   | 02/24/2021    | Proximal gradient method (6)              |        |
 | 12   | 03/01/2021    | Accelerated proximal gradient method (7)  |        |
 |      | 03/03/2021    | **Break Day (No Class)**                  |        |
-| 13   | 03/08/2021    | Conjugate Functions +Proximal mapping (8) |        |
-| 14   | 03/10/2021    | Proximal point methods (9)                |        |
-| 15   | 03/15/2021    | Dual proximal gradient method (10)        |        |
-| 16   | 03/17/2021    | Smoothing (11)                            |        |
-| 17   | 03/22/2021    | Stochastic gradient method (12)           |        |
-| 18   | 03/24/2021    | Stochastic gradient method (12)           |        |
-| 19   | 03/29/2021    | DRS- ADMM (13)                            |        |
-| 20   | 03/31/2021    | DRS- ADMM (13)                            |        |
+| 13   | 03/08/2021    | Accelerated proximal gradient method (7)  |        |
+| 14   | 03/10/2021    | Accelerated proximal gradient method (7)  |        |
+| 15   | 03/15/2021    | Conjugate Functions +Proximal mapping (8) |        |
+| 16   | 03/17/2021    | Proximal point methods (9)                |        |
+| 17   | 03/22/2021    | Dual proximal gradient method (10)        |        |
+| 18   | 03/24/2021    | Smoothing (11)                            |        |
+| 19   | 03/29/2021    | Stochastic gradient method (12)           |        |
+| 20   | 03/31/2021    | Stochastic gradient method (12)           |        |
 | 21   | 04/05/2021    | DRS- ADMM (13)                            |        |
-| 22   | 04/07/2021    | Primal-Dual (14)                          |        |
+| 22   | 04/07/2021    | DRS- ADMM (13)                            |        |
 | 23   | 04/12/2021    | Primal-Dual (14)                          |        |
-| 24   | 04/14/2021    | Coordinate update methods (16)            |        |
+| 24   | 04/14/2021    | Primal-Dual (14)                          |        |
 | 25   | 04/19/2021    | Project Presentation                      |        |
 | 26   | 04/21/2021    | Project Presentation                      |        |
 
