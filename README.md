@@ -125,11 +125,11 @@ The lecture meetings will be in Zoom. There are workshops on online resources fr
 | 17   | 03/22/2021    | Proximal point methods (9) + Dual proximal gradient method (10) |        |
 | 18   | 03/24/2021    | Dual proximal gradient method (10) + Smoothing (11)          |        |
 | 19   | 03/29/2021    | Smoothing (11)                                               |        |
-| 20   | 03/31/2021    | Stochastic gradient method (12)                              |        |
-| 21   | 04/05/2021    | Stochastic gradient method (12)                                              |        |
-| 22   | 04/07/2021    | DRS- ADMM (13)                                               |        |
-| 23   | 04/12/2021    | DRS- ADMM (13)                                              |        |
-| 24   | 04/14/2021    | DRS- ADMM (13)                                              |        |
+| 20   | 03/31/2021    | Smoothing (11) + Stochastic gradient method (12)             |        |
+| 21   | 04/05/2021    | Stochastic gradient method (12)                              |        |
+| 22   | 04/07/2021    | Stochastic gradient method (12)                              |        |
+| 23   | 04/12/2021    | DRS- ADMM (13)                                               |        |
+| 24   | 04/14/2021    | DRS- ADMM (13)                                               |        |
 | 25   | 04/19/2021    | Project Presentation                                         |        |
 | 26   | 04/21/2021    | Project Presentation                                         |        |
 
